@@ -3,3 +3,4 @@ pip install langchain-google-genai
 pip install google-generativeai # Asegura que la librería base de Gemini esté instalada
 pip install psycopg2-binary
 pip install python-dotenv
+pip install --upgrade langchain langchain-community langchain-google-genai
