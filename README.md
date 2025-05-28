@@ -1,4 +1,4 @@
----
+
 ## Proyecto de Verificación de Calidad con IA y PostgreSQL
 
 Este proyecto demuestra un sistema de **verificación de calidad impulsado por Inteligencia Artificial (IA)**, diseñado para interactuar con datos almacenados en una base de datos **PostgreSQL** utilizando la API de **Google Gemini**.
@@ -15,4 +15,3 @@ La solución permite a los usuarios realizar **consultas complejas en lenguaje n
 
 Este proyecto es ideal para cualquiera que busque implementar un sistema de **análisis de datos basado en lenguaje natural** o explorar las capacidades de los agentes de IA en entornos de datos estructurados.
 
----
